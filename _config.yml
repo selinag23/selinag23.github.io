@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin(Selina) Gong / selinag"
+title                    : "Xin(Selina) / selinag"
 title_separator          : "-"
-name                     : &name "Xin(Selina) Gong"
+name                     : &name "Xin Gong"
 description              : &description "Data Science undergrad"
 url                      : https://selinag23.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Gong"
-  avatar           : "profile.png"
+  name             : "Xin(Selina) Gong"
+  avatar           : "DSC02471-min.JPG"
   bio              : "Data Science junior student in University of Michgan, Ann Arbor"
   location         : "Ann Arbor/Shanghai"
   employer         :
